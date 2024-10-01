@@ -1,0 +1,15 @@
+{
+  "name": "apicontatos",
+  "version": "1.0.0",
+  "description": "api contatos para aula de sistemas distribuidos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "author": "emerlly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
